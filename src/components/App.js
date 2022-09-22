@@ -6,6 +6,9 @@ function App() {
     <div>
       <h3>SpicyFoodList</h3>
       <SpicyFoodList />
+      <getNewSpicyFood/>
+      <handleLiClick/>
+      <getNewRandomSpicyFood/>
     </div>
   );
 }
